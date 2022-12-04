@@ -1,6 +1,6 @@
-# M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images
+# Automated Lesion Segmentation in Fundus Images with Many-to-Many Reassembly of Features
 
-This repo is the official implementation of paper ["M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images"](https://doi.org/10.1016/j.patcog.2022.109191).
+This repo is the official implementation of paper ["Automated Lesion Segmentation in Fundus Images with Many-to-Many Reassembly of Features"](https://doi.org/10.1016/j.patcog.2022.109191).
 
 <!-- ## Introduction -->
 
