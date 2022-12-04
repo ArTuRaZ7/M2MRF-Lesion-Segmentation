@@ -1,6 +1,6 @@
 # M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images
 
-This repo is the official implementation of paper ["M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images"](https://arxiv.org/abs/2111.00193v2).
+This repo is the official implementation of paper ["M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images"](https://doi.org/10.1016/j.patcog.2022.109191).
 
 <!-- ## Introduction -->
 
@@ -73,12 +73,13 @@ In the paper, we reported average performance over three repetitions, but our co
 If you find this code useful in your research, please consider cite:
 
 ```latex
-@misc{liu2021m2mrf,
-      title={M2MRF: Many-to-Many Reassembly of Features for Tiny Lesion Segmentation in Fundus Images},
-      author={Qing Liu and Haotian Liu and Wei Ke and Yixiong Liang},
-      year={2021},
-      eprint={2111.00193},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{liu2022m2mrf,
+      title = {Automated Lesion Segmentation in Fundus Images with Many-to-Many Reassembly of Features},
+      author = {Qing Liu and Haotian Liu and Wei Ke and Yixiong Liang},
+      journal = {Pattern Recognition},
+      pages = {109191},
+      year = {2022},
+      issn = {0031-3203},
+      doi = {https://doi.org/10.1016/j.patcog.2022.109191},
 }
 ```
