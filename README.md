@@ -73,12 +73,13 @@ In the paper, we reported average performance over three repetitions, but our co
 If you find this code useful in your research, please consider cite:
 
 ```latex
-@article{liu2022m2mrf,
+@article{liu2023m2mrf,
       title = {Automated Lesion Segmentation in Fundus Images with Many-to-Many Reassembly of Features},
       author = {Qing Liu and Haotian Liu and Wei Ke and Yixiong Liang},
       journal = {Pattern Recognition},
+      volume = {136},
       pages = {109191},
-      year = {2022},
+      year = {2023},
       issn = {0031-3203},
       doi = {https://doi.org/10.1016/j.patcog.2022.109191},
 }
