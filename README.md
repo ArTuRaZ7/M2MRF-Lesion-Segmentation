@@ -70,7 +70,7 @@ In the paper, we reported average performance over three repetitions, but our co
 
 ## Citation
 
-If you find this code useful in your research, please consider cite:
+If you find this code useful in your research, please consider citing:
 
 ```latex
 @article{liu2023m2mrf,
