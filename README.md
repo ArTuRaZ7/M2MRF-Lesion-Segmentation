@@ -13,7 +13,7 @@ This code is based on [mmsegmentation](https://github.com/open-mmlab/mmsegmentat
 -   mmcv=1.2.0
 
 ```
-pip install mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu102/torch1.6.0/index.html
+pip install mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.6.0/index.html
 pip install opencv-python-headless
 pip install scipy
 pip install tensorboard tensorboardX
