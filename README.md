@@ -13,15 +13,11 @@ This code is based on [mmsegmentation](https://github.com/open-mmlab/mmsegmentat
 -   mmcv=1.2.0
 
 ```
-conda create -n m2mrf python=3.7 -y
-conda activate m2mrf
-
-conda install pytorch=1.6.0 torchvision cudatoolkit=10.2 -c pytorch -y
-pip install mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu102/torch1.6.0/index.html -i https://pypi.douban.com/simple/
-pip install opencv-python
+pip install mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu102/torch1.6.0/index.html
+pip install opencv-python-headless
 pip install scipy
 pip install tensorboard tensorboardX
-pip install sklearn
+pip install scikit-learn
 pip install terminaltables
 pip install matplotlib
 
