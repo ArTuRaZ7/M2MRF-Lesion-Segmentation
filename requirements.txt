@@ -1,7 +1,8 @@
-mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu102/torch1.6.0/index.html
+mmcv-full==1.2.0 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.6.0/index.html
 scipy
-tensorboard tensorboardX
-pip install opencv-python-headless
+tensorboard
+tensorboardX
+opencv-python-headless
 scikit-learn
 terminaltables
 matplotlib
